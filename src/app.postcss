@@ -1,0 +1,37 @@
+/*
+	CSS Variables For Theming
+	https://github.com/hakimel/reveal.js/blob/master/css/theme/template/exposer.scss
+*/
+
+@import '@fontsource/manrope';
+@import '@fontsource/jetbrains-mono';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--r-main-font: 'Manrope';
+	--r-heading-font: 'Manrope';
+	--r-code-font: 'JetBrains Mono';
+	--r-link-color: aqua;
+	--r-link-color-hover: aqua;
+}
+
+.hljs {
+	background: none;
+}
+
+.hljs-title,
+.hljs-keyword {
+	font-weight: normal;
+}
+
+.reveal pre,
+.reveal code {
+	overflow: hidden !important;
+}
+
+.reveal pre {
+	box-shadow: none;
+}
