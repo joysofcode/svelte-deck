@@ -1,6 +1,6 @@
-# Make Beautiful Presentations With Svelte
+# Create Beautiful Presentations With Svelte
 
-Learn how to make beautiful looking presentations with Svelte using the HTML presentation framework Reveal.js and Tailwind CSS.
+Learn how to create beautiful presentations with Svelte using the HTML presentation framework Reveal.js and Tailwind CSS.
 
 ## Post
 
