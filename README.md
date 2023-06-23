@@ -8,14 +8,14 @@ Learn how to create beautiful presentations with Svelte using the HTML presentat
 
 ## Remote Development
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/joysofcode/beautiful-presentations-with-svelte)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/joysofcode/svelte-deck)
 
 ## Local Development
 
 ### 🧑‍🤝‍🧑 Clone the project
 
 ```sh
-https://github.com/joysofcode/beautiful-presentations-with-svelte
+https://github.com/joysofcode/svelte-deck
 ```
 
 ### 📦️ Install dependencies
